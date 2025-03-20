@@ -9,7 +9,6 @@ I am a passionate developer and researcher with over **4 years** of experience i
 ## 📌 About Me
 🔹 Founder & Lead Developer of **Sevalis**, an AI-powered mental health platform.  
 🔹 Creator of **InvestJo**, a fintech platform for micro-investments.  
-🔹 Developed **Saleem**, an advanced ERP & invoicing system for the Saudi market.  
 🔹 Experienced in **building scalable applications, AI-driven systems, and Web3 solutions**.  
 🔹 Researching **the integration of AI, blockchain, and metaverse in mental health applications**.  
 
@@ -29,7 +28,7 @@ I am a passionate developer and researcher with over **4 years** of experience i
 - TensorFlow, OpenCV, NLP models, AI-driven recommendation systems
 
 ### **⛓ Blockchain & Web3:**
-- Smart contracts (Solidity), Web3.js, Ethereum, Polygon
+- Smart contracts (Solidity), Web3.js, Ethereum
 
 ### **🎮 Game Development & XR:**
 - Unity (C#), ARCore, WebXR, VR applications
@@ -45,7 +44,6 @@ I am a passionate developer and researcher with over **4 years** of experience i
 🔹 **AI-Powered Mental Health Diagnosis** – AI-based emotion and mental state detection.  
 🔹 **Decentralized Health Records (Blockchain)** – Secure, patient-controlled medical data storage.  
 🔹 **University Bus Tracking App** – Real-time GPS tracking & seat reservations using Flutter.  
-🔹 **Mutah University 3D Simulation** – Multiplayer campus simulation with Node.js backend.  
 🔹 **VR Therapy in the Metaverse** – Immersive mental health therapy using WebXR.  
 
 📌 **Stay tuned for public repositories showcasing these projects!**
@@ -77,8 +75,7 @@ I am a passionate developer and researcher with over **4 years** of experience i
 ---
 
 ## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ahmadalhashlamoun)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/your_handle)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=web)](https://yourwebsite.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ahmad-alhashlamoun-a7a59b202/)  
+[![Sevalis](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=web)](http://sevalis.com/)  
 
 📩 **Email:** ahmadalhashlamoun18@gmail.com
